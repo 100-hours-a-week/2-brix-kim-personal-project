@@ -36,7 +36,7 @@
 | dense_21 (Dense)                    | (None, 5)            | 2,565       |
 
 ## 학습결과 DB연동
-![alt text](/assets/db_1.png)
+![alt text](/db_1.png)<br/>
 수업시간에 활용한 aiven에 서버를 두고 MySQL을 이용하여 학습결과를 저장하였다.
 
 - MySQL 설정

@@ -116,7 +116,7 @@
     | 181 | Final Model       | 39    | 0.997017  | 0.010021 | 0.996933     | 0.010352 | 2025-03-28 02:55:59 |
 
 ## Project 파일
-- [Project 정리](/2025-03-22-cnn_project.md)
+- [Project 정리](https://thplus.github.io/project/ktb/cnn_project/)
 - [모델 설계 colab link](https://colab.research.google.com/drive/1WgjlYTLEkDyacbimKDHpdKw0LBZn4aTi?usp=sharing)
 - [GoogLeNet 학습불가 colab link](https://colab.research.google.com/drive/1Wt_dMel9Vv8HwzGIlkuvochkIFNWLsv0?usp=sharing)
 - [모델 성능평가 colab link](https://colab.research.google.com/drive/1x-QuXOEOWcSqWvZlDuVOeBu88Hb8jMWO?usp=sharing)
